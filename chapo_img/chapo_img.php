@@ -15,7 +15,9 @@
 
 /**
  * Pour que ce plugin fonctionne : 
- *  - remplacer {article_chapo} par {addon_chapo_img} dans vos templates
+ *   - Remplacer {article_chapo} par {addon_chapo_img} dans vos templates
+ *   - Ajouter le dossier "chapo_img" dans le dossier "addons" de votre blogotext
+ *   - Insérer vos images via la balise <img /> ou [img] dans les chapo de vos articles
  */
 
 
