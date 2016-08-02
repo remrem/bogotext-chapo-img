@@ -7,7 +7,7 @@
  * @author    RemRem <remrem@dirty-script.com>
  * @copyright Copyright (C) dirty-script.com,  All rights reserved.
  * @licence   MIT
- * @version   0.00.0001 alpha
+ * @version   0.01.0001 alpha
  * 
  * You can redistribute it under the terms of the MIT / X11 Licence.
  */
